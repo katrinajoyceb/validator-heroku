@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const acmfeventRoutes = express.Router();
 var fs = require('fs');
-const d3 = require("d3");
+
 
 acmfeventRoutes.route('/').get(function (req, res) {
     fs.readFile('sessions/September/session_2865/event_d2018-09-18_t16:43:35_s2865_g1.evt.csv', 'utf8', function (err,data) {
