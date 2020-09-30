@@ -1,0 +1,48 @@
+File,FileMetaRecord_FormatVerNum,1
+File,AHMUConfigRecord_AHMUModelNum,3279B1
+File,AHMUConfigRecord_AHMUSerialNum,0000001
+File,AircraftConfigRecord_ACSerialNum,56780123
+File,AircraftConfigRecord_ACModelNum,C919
+File,CDBMetaRecord_PrimaryPartNumber,SMX4E-1234-5678
+File,CDBMetaRecord_CMAPartNumber,
+File,CDBMetaRecord_Version,8.8
+File,CDBMetaRecord_DateTime,2018-02-28-T12:30:24
+File,TimeInfoRecord_SessionNumber,2867
+File,TimeInfoRecord_AHMUStartTime,00:00:49.817955906
+File,TimeInfoRecord_UTCStartTime,2018-09-20 16:16:46 GMT
+File,TimeInfoRecord_AHMUSyncTime,00:09:36.637965215
+File,TimeInfoRecord_UTCSyncTime,2018-09-20 16:21:46 GMT
+File,VersionInformationRecord_OFPPartNum,SMXCC-OPSD-L473
+Event,1,UTCTimeStamp,2018-09-20 16:43:35 GMT
+Event,1,AHMUTimeStamp,00:03:54.817933076
+Event,1,EventType,1
+Event,1,EventName,Oil_Pressure_Really_High
+Event,1,EventType:ACMF,EventValid,1
+Event,1,EventType:ACMF,PreviousState,0
+Event,1,EventType:ACMF,CurrentState,1
+Event,1,EventType:ACMF,ATAChapter,0
+Event,1,EventType:ACMF,FlightLeg,-128
+Event,1,EventType:ACMF,FlightPhase,1
+Event,1,TaskResults:Recording,DurationTime,120.0
+Event,1,TaskResults:Recording,RecordRate,1.0
+Event,1,TaskResults:Recording,ParameterName,N1_Maximum_LA
+Event,1,TaskResults:Recording,ParameterUnit,Unknown
+Event,1,TaskResults:Recording,ParameterStartTime,2018-09-20 16:15:05.061164
+Event,1,TaskResults:Recording,ParameterData,20.0, 21.0, 22.0, 23.0, 24.0, 23.0, 22.0, 21.0, 20.0, 19.0, 18.0, 17.0
+Event,1,TaskResults:Recording,ParameterName,N1_Peak_LA
+Event,1,TaskResults:Recording,ParameterUnit,Unknown
+Event,1,TaskResults:Recording,ParameterStartTime,2018-09-20 16:15:05.061164
+Event,1,TaskResults:Recording,ParameterData,19.0, 20.0, 22.0, 23.0, 24.0, 23.0, 22.0, 21.0, 20.0, 19.0, 18.0, 17.0
+Event,1,TaskResults:Recording,ParameterName,N2_Peak_LA
+Event,1,TaskResults:Recording,ParameterUnit,Unknown
+Event,1,TaskResults:Recording,ParameterStartTime,2018-09-20 16:15:05.061164
+Event,1,TaskResults:Recording,ParameterData,20.0, 21.0, 22.0, 23.0, 24.0, 23.0, 22.0, 21.0, 20.0, 19.0, 18.0, 17.0
+Event,1,TaskResults:Recording,ParameterName,Oil_Quantitiy_Low_Limit_LA
+Event,1,TaskResults:Recording,ParameterUnit,Qt (US)
+Event,1,TaskResults:Recording,ParameterStartTime,2018-09-20 16:15:05.061164
+Event,1,TaskResults:Recording,ParameterData,20.0, 21.0, 22.0, 23.0, 24.0, 23.0, 22.0, 21.0, 20.0, 19.0, 18.0, 17.0
+Event,1,TaskResults:Recording,ParameterName,Selected_Engine_Oil_Temperature_LA
+Event,1,TaskResults:Recording,ParameterUnit,degrees C
+Event,1,TaskResults:Recording,ParameterStartTime,2018-09-20 16:15:05.061164
+Event,1,TaskResults:Recording,ParameterData,20.0, 21.0, 22.0, 23.0, 24.0, 23.0, 22.0, 21.0, 20.0, 19.0, 18.0, 17.0
+EOF

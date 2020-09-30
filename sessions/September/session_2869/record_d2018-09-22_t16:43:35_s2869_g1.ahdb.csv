@@ -1,0 +1,31 @@
+File,FileMetaRecord_FormatVerNum,1
+File,AHMUConfigRecord_AHMUModelNum,3279B1
+File,AHMUConfigRecord_AHMUSerialNum,0000001
+File,AircraftConfigRecord_ACSerialNum,56780123
+File,AircraftConfigRecord_ACModelNum,C919
+File,CDBMetaRecord_PrimaryPartNumber,SMX4E-1234-5678
+File,CDBMetaRecord_CMAPartNumber,
+File,CDBMetaRecord_Version,8.8
+File,CDBMetaRecord_DateTime,2018-02-28-T12:30:24
+File,TimeInfoRecord_SessionNumber,2869
+File,TimeInfoRecord_AHMUStartTime,00:00:34.524821738
+File,TimeInfoRecord_UTCStartTime,2018-09-22 11:10:46 GMT
+File,TimeInfoRecord_AHMUSyncTime,00:00:14.881007777
+File,TimeInfoRecord_UTCSyncTime,2018-09-22 11:21:46 GMT
+File,VersionInformationRecord_OFPPartNum,SMXCC-OPSD-L059
+Data,ParameterName,Voted_Static_Pressure_1
+Data,ParameterUnit,mB
+Data,ParameterRate,16.0
+Data,ParameterStartTime,2018-09-22 00:00:19.643814
+Data,ParameterData,0.0, #0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, #0.0, 0.0, 0.0, 0.0
+Data,ParameterName,Voted_Pressure_Altitude_1
+Data,ParameterUnit,ft
+Data,ParameterRate,16.0
+Data,ParameterStartTime,2018-09-22 00:00:19.643814
+Data,ParameterData,0.0, #0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, #0.0, 0.0, 0.0, 0.0
+Data,ParameterName,RAT_Deployed_1
+Data,ParameterUnit,Discrete
+Data,ParameterRate,16.0
+Data,ParameterStartTime,2018-09-22 00:00:19.643814
+Data,ParameterData,0=Not_Deployed, #0=Not_Deployed, 0=Not_Deployed, 0=Not_Deployed, 0=Not_Deployed, 0=Not_Deployed, 0=Not_Deployed
+EOF

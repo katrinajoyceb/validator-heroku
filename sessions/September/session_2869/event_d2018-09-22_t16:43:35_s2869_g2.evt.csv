@@ -1,0 +1,32 @@
+File,FileMetaRecord_FormatVerNum,1
+File,AHMUConfigRecord_AHMUModelNum,3279B1
+File,AHMUConfigRecord_AHMUSerialNum,0000020
+File,AircraftConfigRecord_ACSerialNum,56780123
+File,AircraftConfigRecord_ACModelNum,C919
+File,CDBMetaRecord_PrimaryPartNumber,SMX4C-5597-86MG
+File,CDBMetaRecord_CMAPartNumber,
+File,CDBMetaRecord_Version,8.8
+File,CDBMetaRecord_DateTime,2017-08-11-T15:33:10
+File,TimeInfoRecord_SessionNumber,2869
+File,TimeInfoRecord_AHMUStartTime,00:08:23.664406026
+File,TimeInfoRecord_UTCStartTime,2018-09-22 16:43:35 GMT
+File,TimeInfoRecord_AHMUSyncTime,00:01:37.493306412
+File,TimeInfoRecord_UTCSyncTime,2018-09-22 16:36:48 GMT
+File,VersionInformationRecord_OFPPartNum,SMXCC-OPSD-L624
+Event,1,UTCTimeStamp,2018-09-22 16:43:35 GMT
+Event,1,AHMUTimeStamp,00:08:23.664406026
+Event,1,EventType,2
+Event,1,EventType:ACFAILURE,MemberSystemName,HLRM A on IMC (189)
+Event,1,EventType:ACFAILURE,FailureName,External ATA24 SSPC Abnormal HLRM_A Local
+Event,1,EventType:ACFAILURE,TransitionState,Active
+Event,1,EventType:ACFAILURE,HeadFaultReportName,Unknown
+Event,1,EventType:ACFAILURE,ATAChapter,29
+Event,1,EventType:ACFAILURE,FlightLeg,-127
+Event,1,EventType:ACFAILURE,FlightPhase,14
+Event,1,Failure:Details,ParameterNames,Elev_LIB_EHSV_Posn_FCS_1,Label133_Selected_N2_Actual2_RB,Probe_Capacitance41_B1
+Event,1,Failure:Details,ParameterUnits,inches,Unknown,pF
+Event,1,Failure:Details,ParameterData,!0.32768,130.0,204.75
+Event,1,Failure:Details,MemberSystemNames,GPM R1 (10888), IHDC (90), GPM R1 (10888)
+Event,1,Failure:Details,FaultNames,RDIU_Discrete_Input_PD_34_Validity_Fault,R_ENG_FIRE_DET_LOOP_A_ALARM,RDIU_Discrete_Input_PD_35_Validity_Fault
+Event,1,Failure:Details,FaultStatus,Inactive,Active,Active
+EOF

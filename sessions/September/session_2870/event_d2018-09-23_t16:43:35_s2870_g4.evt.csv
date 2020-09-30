@@ -1,0 +1,34 @@
+File,FileMetaRecord_FormatVerNum,1
+File,AHMUConfigRecord_AHMUModelNum,3279B1
+File,AHMUConfigRecord_AHMUSerialNum,0000020
+File,AircraftConfigRecord_ACSerialNum,56780123
+File,AircraftConfigRecord_ACModelNum,C919
+File,CDBMetaRecord_PrimaryPartNumber,SMX4C-5597-86MG
+File,CDBMetaRecord_CMAPartNumber,
+File,CDBMetaRecord_Version,8.8
+File,CDBMetaRecord_DateTime,2017-08-11-T15:33:10
+File,TimeInfoRecord_SessionNumber,2870
+File,TimeInfoRecord_AHMUStartTime,00:08:23.664406026
+File,TimeInfoRecord_UTCStartTime,2018-09-23 16:43:35 GMT
+File,TimeInfoRecord_AHMUSyncTime,00:01:37.493306412
+File,TimeInfoRecord_UTCSyncTime,2018-09-23 16:36:48 GMT
+File,VersionInformationRecord_OFPPartNum,SMXCC-OPSD-L624
+Event,1,UTCTimeStamp,2018-09-23 16:43:35 GMT
+Event,1,AHMUTimeStamp,00:08:23.664406026
+Event,1,EventType,4
+Event,1,EventType:FDECORRELATION,MemberSystemName,HLRM A on IMC (189)
+Event,1,EventType:FDECORRELATION,FailureName,External ATA24 SSPC Abnormal HLRM_A Local
+Event,1,EventType:FDECORRELATION,FlightDeckEffectName, Flight Deck Effect 1
+Event,1,EventType:FDECORRELATION,ATAChapter,29
+Event,1,EventType:FDECORRELATION,FlightLeg,-127
+Event,1,EventType:FDECORRELATION,FlightPhase,14
+Event,2,UTCTimeStamp,2018-09-23 16:43:35 GMT
+Event,2,AHMUTimeStamp,00:08:23.664406026
+Event,2,EventType,4
+Event,2,EventType:FDECORRELATION,MemberSystemName,HLRM A on IMC (189)
+Event,2,EventType:FDECORRELATION,FailureName,External ATA24 SSPC Abnormal HLRM_A Local
+Event,2,EventType:FDECORRELATION,FlightDeckEffectName,Flight Deck Effect 2
+Event,2,EventType:FDECORRELATION,ATAChapter,29
+Event,2,EventType:FDECORRELATION,FlightLeg,-127
+Event,2,EventType:FDECORRELATION,FlightPhase,14
+EOF
