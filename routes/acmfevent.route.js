@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const acmfeventRoutes = express.Router();
 var fs = require('fs');
+const d3 = require("d3");
 
 
 acmfeventRoutes.route('/').get(function (req, res) {
